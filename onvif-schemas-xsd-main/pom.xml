@@ -24,12 +24,7 @@
         <global.version>${project.version}</global.version>
     </properties>
     <dependencies>
-        <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-            <version>1.2.14</version>
-            <scope>provided</scope>
-        </dependency>
+     
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
